@@ -1,0 +1,8 @@
+pandas
+statsmodels
+arch
+scikit-learn
+tensorflow
+deap
+matplotlib
+numpy==1.26.4
